@@ -1,2 +1,2 @@
 # SolidPrinciples
-Solid Principles Application
+Solid Principles Application Java
